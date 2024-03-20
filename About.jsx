@@ -173,7 +173,7 @@ const About = () => {
               className="about-card"
             >
               <div className="img">
-                <img src="https://ik.imagekit.io/bhanu1776/Freelansters/osama.jpg?updatedAt=1682608749618" alt="" loading="lazy"/>
+                <img src="" alt="" loading="lazy"/>
               </div>
               <div className="info">
                 <h3>Osama Shaikh</h3>
@@ -213,16 +213,16 @@ const About = () => {
               className="about-card"
             >
               <div className="img">
-                <img src="https://ik.imagekit.io/bhanu1776/Freelansters/bhanu.jpg?updatedAt=1682608756655" alt="" loading="lazy" />
+                <img src="" alt="" loading="lazy" />
               </div>
               <div className="info">
-                <h3>Bhanu Sunka</h3>
+                <h3>Shlok Kohli</h3>
                 <span>Full Stack Developer</span>
               </div>
               <ul className="social">
                 <li>
                   <a
-                    href="https://github.com/Bhanu1776"
+                    href=""
                     className="fab fa-facebook"
                   >
                     <span></span>
@@ -230,7 +230,7 @@ const About = () => {
                 </li>
                 <li>
                   <a
-                    href="https://twitter.com/SunkaBhanu"
+                    href=""
                     className="fab fa-twitter"
                   >
                     <span></span>
@@ -238,7 +238,7 @@ const About = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/bhanu_1776/"
+                    href=""
                     className="fab fa-instagram"
                   >
                     <span></span>
@@ -246,7 +246,7 @@ const About = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/bhanu-sunka-94a24a21a/"
+                    href=""
                     className="fab fa-linkedin"
                   >
                     <span></span>
@@ -262,7 +262,7 @@ const About = () => {
               className="about-card"
             >
               <div className="img">
-                <img src="https://ik.imagekit.io/bhanu1776/Freelansters/harsh.jpg?updatedAt=1682608753482" alt="" loading="lazy"/>
+                <img src="" alt="" loading="lazy"/>
               </div>
               <div className="info">
                 <h3>Harsh Dalvi</h3>
