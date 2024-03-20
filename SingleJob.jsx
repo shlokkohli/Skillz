@@ -65,7 +65,7 @@ const SingleJob = () => {
                   sx={{ width: "400px", ml: -1 }}
                   endIcon={<SendIcon />}
                 >
-                  <a href="mailto:sunkabhanu281202@gmail.com">Send Proposal</a>
+                  <a href="">Send Proposal</a>
                 </ColorButton>
               </CardActions>
             </Grid>
