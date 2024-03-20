@@ -175,10 +175,6 @@ const About = () => {
               <div className="img">
                 <img src="" alt="" loading="lazy"/>
               </div>
-              <div className="info">
-                <h3>Osama Shaikh</h3>
-                <span>Frontend Developer</span>
-              </div>
               <ul className="social">
                 <li>
                   <a href="/" className="fab fa-facebook">
@@ -192,7 +188,7 @@ const About = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/osamashaikh_786/"
+                    href=""
                     className="fab fa-instagram"
                   >
                     <span></span>
@@ -264,10 +260,6 @@ const About = () => {
               <div className="img">
                 <img src="" alt="" loading="lazy"/>
               </div>
-              <div className="info">
-                <h3>Harsh Dalvi</h3>
-                <span>Backend Developer</span>
-              </div>
               <ul className="social">
                 <li>
                   <a href="/" className="fab fa-facebook">
@@ -281,7 +273,7 @@ const About = () => {
                 </li>
                 <li>
                   <a
-                    href="/https://www.instagram.com/harsh_97"
+                    href=""
                     className="fab fa-instagram"
                   >
                     <span></span>
